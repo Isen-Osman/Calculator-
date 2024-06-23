@@ -11,6 +11,7 @@ using System.Windows.Forms;
 namespace Calculator_
 {
 
+    //napravena e mala izmena vo kodot
  
     public partial class Form1 : Form
     {
