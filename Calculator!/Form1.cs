@@ -11,9 +11,7 @@ using System.Windows.Forms;
 namespace Calculator_
 {
 
-    //Code is changed
-    // isen amir
-    //amir
+ 
     public partial class Form1 : Form
     {
 
@@ -28,8 +26,9 @@ namespace Calculator_
         private List<Button> numberButtons;
         
 
-        //Code visual studio
+        
    
+        //Napravena e izmena vo kodot
         public Form1()
         {
             InitializeComponent();
