@@ -40,3 +40,7 @@
 
 ### Изгледот на калкулаторот
 
+![img1](https://github.com/Isen-Osman/Calculator-/assets/166142342/8b0471c6-5733-4150-bce4-fb886c76bd93)
+
+
+
