@@ -97,11 +97,13 @@
 
 ```csharp
 
-public double Reciprocal(double num)
+public double Divide(double num1, double num2)
             {
-                if (num == 0)
+            if (num2 == 0)
             {
-                MessageBox.Show("Неможе да се конвертира бројот 0.","Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                
+                MessageBox.Show("Не може да се пресметува со 0", "Известување");
+                return 0; 
             }
 
 ```
